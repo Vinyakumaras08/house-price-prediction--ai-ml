@@ -1,2 +1,2 @@
-# house-price-prediction--ai-ml
-A machine learning-based project for predicting house prices using algorithms like Linear Regression, Random Forest, and XGBoost. The system analyzes features such as location, area, and number of rooms to provide accurate and data-driven predictions.
+# customer-classification-knn
+A machine learning project that uses the K-Nearest Neighbors (KNN) algorithm to classify customers based on features such as age, income, and spending behavior. The project includes data preprocessing, feature scaling, model training, and evaluation to accurately segment customers for better business decision-making.
